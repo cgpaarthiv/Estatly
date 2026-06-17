@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <rect width="256" height="256" rx="48" fill="#1a6b3c"/>
+  <g transform="translate(128,118)" fill="none" stroke="white" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <!-- map/land shape -->
+    <path d="M-52 38 L-36 28 L0 38 L36 28 L52 38" stroke-width="7"/>
+    <path d="M-52 38 L-36 28" stroke-width="7"/>
+    <!-- pin body -->
+    <path d="M0-58 C-22-58 -34-42 -34-26 C-34-6 0 20 0 20 C0 20 34-6 34-26 C34-42 22-58 0-58Z" stroke-width="7"/>
+    <!-- pin dot -->
+    <circle cx="0" cy="-28" r="11" stroke-width="7"/>
+  </g>
+</svg>
